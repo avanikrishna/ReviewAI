@@ -45,4 +45,10 @@ An AI-powered code review assistant that analyzes source code, identifies potent
 <img width="1440" height="900" alt="Screenshot 2026-07-29 at 6 49 38 PM" src="https://github.com/user-attachments/assets/d46088ec-e2b2-4ccf-ab65-e951baee24de" />
 
 
+## Author
+
+**Avani Krishna**
+
+GitHub: https://github.com/avanikrishna
+
 
