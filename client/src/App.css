@@ -1,0 +1,184 @@
+body {
+  margin: 0;
+  background: #0f172a;
+  color: white;
+  font-family: "Inter", Arial, sans-serif;
+}
+
+
+.container {
+  max-width: 1100px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 42px;
+  margin-bottom: 10px;
+}
+
+
+p {
+  text-align: center;
+  color: #94a3b8;
+  font-size: 18px;
+}
+
+
+.language-select {
+  display: block;
+  margin: 25px auto;
+  padding: 10px 18px;
+  border-radius: 8px;
+  background: #1e293b;
+  color: white;
+  border: 1px solid #334155;
+  font-size: 16px;
+}
+
+
+.editor {
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid #334155;
+}
+
+
+button {
+  display: block;
+  margin: 25px auto;
+  padding: 14px 35px;
+  font-size: 17px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  background: #2563eb;
+  color: white;
+  transition: 0.3s;
+}
+
+
+button:hover {
+  background: #1d4ed8;
+}
+
+
+.review-box {
+  margin-top: 40px;
+  padding: 25px;
+  background: #1e293b;
+  border-radius: 15px;
+  border: 1px solid #334155;
+}
+
+
+.review-box h2 {
+  margin-bottom: 20px;
+}
+
+
+.review-box h2,
+.review-box h3 {
+  color: #60a5fa;
+}
+
+
+.review-box p,
+.review-box li {
+  text-align: left;
+  color: #e2e8f0;
+  line-height: 1.6;
+}
+
+
+pre {
+  background: #020617;
+  padding: 20px;
+  border-radius: 10px;
+  overflow-x: auto;
+  color: #e2e8f0;
+}
+
+
+code {
+  font-family: "Fira Code", monospace;
+}
+.score-card {
+  margin: 25px 0;
+  padding: 25px;
+  text-align: center;
+  background: #0f172a;
+  border-radius: 15px;
+  border: 1px solid #334155;
+}
+
+
+.score-card h3 {
+  color: #60a5fa;
+}
+
+
+.score-number {
+  font-size: 55px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+
+.score-number span {
+  font-size: 22px;
+  color: #94a3b8;
+}
+.markdown-review {
+  margin-top: 25px;
+}
+
+
+.markdown-review h2 {
+  color: #38bdf8;
+  margin-top: 30px;
+}
+
+
+.markdown-review h3 {
+  color: #38bdf8;
+}
+
+
+.markdown-review ul {
+  padding-left: 25px;
+}
+
+
+.markdown-review li {
+  margin-bottom: 10px;
+}
+
+
+.markdown-review pre {
+  background: #020617;
+  border: 1px solid #334155;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+
+.markdown-review code {
+  color: #e2e8f0;
+}
+.history-card {
+  background: #0f172a;
+  padding: 15px;
+  margin-top: 15px;
+  border-radius: 10px;
+  border: 1px solid #334155;
+}
+
+
+.history-card button {
+  margin-top: 10px;
+  padding: 8px 15px;
+  font-size: 14px;
+}
